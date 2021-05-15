@@ -8,6 +8,9 @@ target 'Make it So Sl Live' do
   # Pods for Make it So Sl Live
   pod 'Firebase/Auth'
   pod 'Firebase/Analytics'
+  pod 'Firebase/Firestore'
+  pod "firebaseFirestoreSwift"
+  
   
 
   target 'Make it So Sl LiveTests' do
