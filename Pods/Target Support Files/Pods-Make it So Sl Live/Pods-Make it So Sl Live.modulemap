@@ -1,0 +1,6 @@
+framework module Pods_Make_it_So_Sl_Live {
+  umbrella header "Pods-Make it So Sl Live-umbrella.h"
+
+  export *
+  module * { export * }
+}
