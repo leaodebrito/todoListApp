@@ -11,7 +11,7 @@ import SwiftUI
 struct Make_it_So_Sl_LiveApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TaskListView()
         }
     }
 }
